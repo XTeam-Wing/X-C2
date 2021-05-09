@@ -22,5 +22,5 @@ X Series Tools
 
 cdn上线
 
-![](https://i.loli.net/2021/05/09/EfnCucksabMtRpG.png)
+![](https://i.loli.net/2021/05/09/znaOVN5hd2BPXrI.png)
 还在持续优化中

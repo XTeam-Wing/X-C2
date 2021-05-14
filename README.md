@@ -1,5 +1,6 @@
 # X-C2
-X Series Tools
+X系列安全工具-X-C2-后渗透框架
+暂未开源
 
 
 ## Features

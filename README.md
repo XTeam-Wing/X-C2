@@ -1,5 +1,8 @@
 # X-C2
 X系列安全工具-X-C2-后渗透框架
+
+演示视频:
+https://www.bilibili.com/video/BV1G44y1t7KB?spm_id_from=333.999.0.0
 暂未开源
 
 
